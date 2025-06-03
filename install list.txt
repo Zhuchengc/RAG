@@ -1,1 +1,3 @@
 pip install streamlit torch langchain langchain-community
+
+have Ollama running when executing scripts
