@@ -1,0 +1,1 @@
+pip install streamlit torch langchain langchain-community
